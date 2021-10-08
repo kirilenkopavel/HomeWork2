@@ -1,5 +1,3 @@
-package Lesson_2;
-
 /**
  * Java 1. HomeWork 2.
  *
